@@ -1,0 +1,1 @@
+Welcome to Comp 3104 DevOps Course at George Brown College instructed by Professor Pritesh Patel. DevOps is a combination of sofware and It operations to improve software delivery speed and quality.
