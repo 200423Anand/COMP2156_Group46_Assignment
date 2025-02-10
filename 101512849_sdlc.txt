@@ -1,4 +1,4 @@
-Why Learning DevOps is Important in Software Development? 
+Why Learning DevOps is Important in Software Development?
 
 DevOps is important because it makes software development faster, smoother, and more efficient.
   It helps developers and IT teams work together better, so updates and fixes can be released quickly. 
