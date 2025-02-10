@@ -7,3 +7,4 @@ Codebasic.io
 NodeJS
 Jatinsethi-sethi
 Github Action
+Python
