@@ -3,3 +3,5 @@ The full form of SDLC is Software Development Life Cycle.
 Now i am going to explain the Stages:-
 The Software Development Life Cycle is a systematic process for building software that ensures the quality and correctness of the final product.
 The key stages of SDLC is Planning,Requirements Gathering and Analysis,Design, Testing, Deployment, Maintenance.
+https://files.oaiusercontent.com/file-95b7jBxh6FpgiwWXnDtyj9?se=2025-02-11T17%3A11%3A09Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dc4b038fc-6c25-42b4-9089-cbec06a2b480.webp&sig=1x%2B/H5yH4WYbV9bsVfWxMMbPYnN919qvSI07OPtNvEE%3D
+Here's a diagram illustrating the six phases of the Software Development Life Cycle (SDLC), each represented with corresponding icons for clarity.
