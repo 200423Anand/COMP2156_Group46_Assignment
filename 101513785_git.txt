@@ -4,3 +4,12 @@ When i did the research about it then i came to know that
  Jenkins is one of the most popular tools used for automating the process of Continuous Integration (CI).
  It allows developers to integrate code changes into a shared repository several times a day. 
  Each commit triggers an automated build, followed by automated tests. If the tests pass, the build is successful; if they fail, the team is alerted immediately, allowing them to fix issues quickly.
+ Here is some Common Devops Tools:-
+ 1. Version Control Systems
+ 2. CI/CD Tools
+ 3. Configuration Management
+ 4. Containerization
+ 5. Container Orchestration
+ 6. Infrastructure as Code (IaC)
+ 7. Monitoring and Logging
+ 8. Security and Compliance
