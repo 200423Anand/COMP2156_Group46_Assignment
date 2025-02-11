@@ -1,2 +1,6 @@
 devops
-Software development (Dev) and IT operations (Ops) teams can automate and integrate their processes with the help of DevOps, a collection of methods, technologies, and a cultural philosophy. 
+Software development (Dev) and IT operations (Ops) teams can automate and integrate their processes with the help of DevOps, a collection of methods, technologies, and a cultural philosophy.
+When i did the research about it then i came to know that
+ Jenkins is one of the most popular tools used for automating the process of Continuous Integration (CI).
+ It allows developers to integrate code changes into a shared repository several times a day. 
+ Each commit triggers an automated build, followed by automated tests. If the tests pass, the build is successful; if they fail, the team is alerted immediately, allowing them to fix issues quickly.
