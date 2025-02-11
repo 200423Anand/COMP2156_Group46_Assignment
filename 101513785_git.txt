@@ -1,1 +1,2 @@
 devops
+Software development (Dev) and IT operations (Ops) teams can automate and integrate their processes with the help of DevOps, a collection of methods, technologies, and a cultural philosophy. 
