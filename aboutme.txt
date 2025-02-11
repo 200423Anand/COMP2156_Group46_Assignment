@@ -1,0 +1,9 @@
+Hi, I’m Anand Sharma, studying Computer System Technician at George Brown College.
+
+Why did I choose this course?
+Since childhood, I have been curious about technology. I often wondered, Why does this happen? How do phones and computers work? Back then, we had Nokia and Samsung keypad phones, and my interest in technology started from there.
+This curiosity led me to pursue the Computer System Technician course. Now that I am studying it, my interest has grown even more.
+In the future, I plan to take the Computer System Technology course to deepen my knowledge and learn more about advanced technology.
+
+What I learn from devops course?
+I am learning the concepts of DevOps. So far, I have learned how to add, track, commit, and push files to GitHub using Git Bash.

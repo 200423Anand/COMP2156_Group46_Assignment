@@ -1,0 +1,7 @@
+#Explain devops#
+DevOps is a software development approach where development and IT operations
+work together to improve collaboration and automation. It focuses on
+Continuous Integration and Continuous Deployment (CI/CD) using tools like
+ Jenkins and GitHub Actions. I’m also learning about Infrastructure as Code
+ (IaC) with tools like Terraform and using containerization technologies like Docker and Kubernetes. Automated testing, configuration management, and real-time monitoring help improve software quality and scalability. Overall, 
+DevOps speeds up software delivery while ensuring reliability and performance.
