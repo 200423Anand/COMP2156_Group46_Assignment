@@ -1,1 +1,3 @@
-first edit in this file 
+THis file contains the information about the DEV OPS program.
+DevOps is a software development approach that combines development (Dev) and operations (Ops) to streamline the software delivery process.
+It focuses on automation, collaboration, continuous integration/continuous deployment (CI/CD), and monitoring to improve efficiency, reduce errors.
