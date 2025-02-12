@@ -1,0 +1,6 @@
+Students are introduced to DevOps concepts and procedures in the COMP 3104-DevOps course. In order to expedite software delivery, it focuses on enhancing cooperation between the development and operations teams.
+
+Essential DevOps tools like Docker for containerization, Jenkins and GitHub Actions for CI/CD, and Git for version control will be taught to the students. Terraform for infrastructure as code (IaC) and Kubernetes for orchestration are also covered in the course.
+
+Experience with cloud infrastructure management, application monitoring, and deployment automation will be gained through practical labs and projects.
+ Students will be able to create and execute DevOps pipelines to improve software efficiency and dependability by the conclusion of the course.
