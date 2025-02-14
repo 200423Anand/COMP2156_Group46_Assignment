@@ -12,6 +12,7 @@ At the end of this course, the I  will reliably demonstrate the ability to:
 utilizing the industry-standard tools and techniques and strategies such as CI/CD, as well as
 software development lifecycle and containerization for deployment.
 
+
 2. Demonstrate the strategies and skills of using suitable DevOps tools, Cloud database
 technologies and techniques for software/network applications
 
