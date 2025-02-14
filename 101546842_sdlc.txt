@@ -15,6 +15,7 @@ Understanding and implementing DevOps principles can significantly improve softw
 5. stronger security measures
 
 
+
 Outcomes for Students:
 1. In-Demand Skills: DevOps engineers are highly sought-after in tech industries.
 
